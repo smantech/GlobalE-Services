@@ -303,3 +303,24 @@ body {
 #signup-form {
   margin-top: -20px; 
 }
+
+.auth-form .submit{
+transition: background 0.3s ease;
+}
+
+ .auth-form .submit:hover {
+      background-color: #008c9e;
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2rem;
+      }
+      p {
+        font-size: 1rem;
+      }
+      .buttons a {
+        font-size: 0.9rem;
+        padding: 10px 20px;
+      }
+    }
