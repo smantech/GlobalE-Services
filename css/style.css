@@ -115,7 +115,7 @@ body {
     .background {
       background: 
         linear-gradient(rgb(2, 2, 2), rgba(2, 2, 2, 0.6)),
-        url('GES.jpg') no-repeat center center;
+        url('images/GES.jpg') no-repeat center center;
       background-size: cover;
       height: 100vh;
       display: flex;
